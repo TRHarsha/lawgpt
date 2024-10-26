@@ -1,0 +1,9 @@
+streamlit
+pandas
+tensorflow
+langchain
+langchain_community
+langchain_google_genai
+langchain_groq
+Chroma
+python-dotenv
